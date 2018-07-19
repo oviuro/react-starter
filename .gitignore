@@ -113,3 +113,5 @@ typings/
 .nfs*
 
 yarn.lock
+dist
+.cache
